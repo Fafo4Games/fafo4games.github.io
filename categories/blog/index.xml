@@ -8,12 +8,12 @@
     <language>en-us</language>
     <lastBuildDate>Sat, 18 Jun 2022 11:10:36 +0800</lastBuildDate><atom:link href="https://fafo4games.github.io/categories/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Blog Post 1</title>
+      <title>Test Blog Post 1</title>
       <link>https://fafo4games.github.io/posts/blog-post-1/</link>
       <pubDate>Sat, 18 Jun 2022 11:10:36 +0800</pubDate>
       
       <guid>https://fafo4games.github.io/posts/blog-post-1/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed cursus, odio nec venenatis lacinia, lacus lectus varius nisi, in tristique mi purus ut libero.</description>
+      <description>This is a description test. Summary test.</description>
     </item>
     
     <item>
